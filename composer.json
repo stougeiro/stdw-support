@@ -1,0 +1,19 @@
+{
+    "name": "stdw/sourcerer-support",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "STOUGEIRO",
+            "email": "sourcerer@sidneytougeiro.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "STDW\\Support\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
