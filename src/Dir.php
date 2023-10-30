@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class Dir
+    class Dir
     {
         public static function rrmdir(string $_dir): bool
         {

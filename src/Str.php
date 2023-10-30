@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class Str
+    class Str
     {
         public static function ttrim(string $_string): string
         {

@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class Arr
+    class Arr
     {
         public static function kshift(array &$collection): array|null
         {

@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class UUID
+    class UUID
     {
         public static function v4(): string
         {

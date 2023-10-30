@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class TTL
+    class TTL
     {
         const
             NONE = 0,

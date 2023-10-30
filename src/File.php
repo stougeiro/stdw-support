@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class File
+    class File
     {
         public static function rglob(string $pattern, int $flags = 0): array
         {

@@ -3,7 +3,7 @@
     namespace STDW\Support;
 
 
-    final class SafeBase64
+    class SafeBase64
     {
         public static function encode(string $_string ): string
         {
